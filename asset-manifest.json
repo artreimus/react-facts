@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-facts/static/css/main.66802dda.css",
+    "main.js": "/react-facts/static/js/main.93a774ec.js",
+    "static/media/react-icon-dark.png": "/react-facts/static/media/react-icon-dark.8941ccaa62e6669d8844.png",
+    "static/media/react-icon-light.png": "/react-facts/static/media/react-icon-light.af4f108e7e6c8d152096.png",
+    "index.html": "/react-facts/index.html",
+    "main.66802dda.css.map": "/react-facts/static/css/main.66802dda.css.map",
+    "main.93a774ec.js.map": "/react-facts/static/js/main.93a774ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66802dda.css",
+    "static/js/main.93a774ec.js"
+  ]
+}
